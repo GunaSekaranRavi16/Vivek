@@ -1,5 +1,5 @@
 // src/components/Home.jsx
-import profile from '../img/profile.png'
+import profile from '../img/profile.jpg'
 import React from "react";
 
 export default function Home() {
@@ -32,7 +32,7 @@ export default function Home() {
           <img 
             src={profile} 
             alt="Vivekanand Profile" 
-            className="w-56 h-56 sm:w-64 sm:h-64 md:w-[500px] md:h-[500px] rounded-full border-4 border-red-500 shadow-lg"
+            className="w-60 h-72 sm:w-80 sm:h-80 md:w-[363px] md:h-[418px] shadow-lg border-4 border-red-500 rounded-full hover:border-red-600 transition-colors duration-300"
           />
         </div>
       </div>

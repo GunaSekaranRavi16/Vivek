@@ -1,9 +1,9 @@
 export default function Experience() {
   const experiences = [
-    { role: "Video Editor", period: "(FEB 2024-Present)", desc: ["Reception-Focused Video Editing", "Outdoor Shoot Setups", "Guided Models", "Eye-Catching Thumbnails"] },
-    { role: "Video Editor-Intern", period: "(NOV 2023-FEB 2024)", desc: ["Basics of Editing Software", "Color Correction", "Script Narration"] },
-    { role: "Assistant Director", period: "(6 Months)", desc: ["Worked as Assistant Director for Feature Films"] },
-    { role: "Camera Assistant", period: "(6 Months)", desc: ["Worked as Camera Assistant in Local News Channel"] },
+    { role: "Video Editor-Full Time", period: "(NOV 2024-Present)", desc: ["Reception-Focused Video Editing", "Outdoor Shoot Setups", "Guided Models", "Eye-Catching Thumbnails"] },
+    { role: "Video Editor-Intern", period: "(SEP 2023-OCT 2024)", desc: ["Basics of Editing Software", "Color Correction", "Script Narration"] },
+    { role: "Freelance Reporter", period: "(MAR 2023-AUG 2023)", desc: ["at newstamil 24X7"] },
+    { role: "Assistant Director", period: "(MAY 2021-FEB 2023)", desc: ["Worked as Assistant Director for Feature Films"] },
   ];
 
   return (
